@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Zota_BetterContactForm</name>
+    <version>1.0.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>The professional contact form.</summary>
+    <description>The professional contact form let your customers comfortable to drop a message quickly whenever they want.</description>
+    <notes>The responsive contact form let your customer send a message easily on any devices.</notes>
+    <authors><author><name>Better Contact Form</name><user>hai</user><email>hai@bettercontactform.com</email></author></authors>
+    <date>2013-11-01</date>
+    <time>09:56:47</time>
+    <contents><target name="magecommunity"><dir name="Zota"><dir name="BetterContactForm"><dir name="Block"><dir name="Adminhtml"><dir name="Source"><dir name="System"><dir name="Config"><file name="CreateFormButton.php" hash="c9427813634029595775401de9aae142"/></dir></dir></dir></dir><file name="Script.php" hash="62e66da78a90ea26f0cb83fbef262d7e"/></dir><dir name="Helper"><file name="Data.php" hash="3dbcff5095004d843452c25d1525e285"/></dir><dir name="etc"><file name="adminhtml.xml" hash="626639463f50f518cd89619cdb499e9d"/><file name="config.xml" hash="82adc4b8dd88d68ce5dcf80ff48b01a3"/><file name="system.xml" hash="db5a6734b06877808745d387422a6fea"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><file name="bettercontactform.xml" hash="d3b50fd14cb5f2f76cd187ef17c56561"/></dir><dir name="template"><dir name="bettercontactform"><file name="bcf-script.phtml" hash="297895dc6468e88f54fd403fbdfbddc3"/></dir></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Zota_BetterContactForm.xml" hash="6456dad11f95aa957cc9999046078b90"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>5.5.0</max></php></required></dependencies>
+</package>

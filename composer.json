@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Zota_BetterContactForm",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "The professional contact form.",
+    "authors": [
+    {
+        "name": "Better Contact Form",
+        "email": "hai@bettercontactform.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

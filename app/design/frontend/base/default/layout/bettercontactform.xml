@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <layout version="0.1.0">
     <default>
-        <reference name="after_body_start">
+        <reference name="before_body_end">
             <block type="bettercontactform/script" name="bcf_script" as="bcf_script" translate="label">
             	<label>Better Contact Form Script</label>
             	<action method="setTemplate"><template>bettercontactform/bcf-script.phtml</template></action>

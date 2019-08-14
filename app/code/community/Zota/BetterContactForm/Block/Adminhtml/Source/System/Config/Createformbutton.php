@@ -1,5 +1,5 @@
 <?php 
-class Zota_BetterContactForm_Block_Adminhtml_Source_System_Config_CreateFormButton extends Mage_Adminhtml_Block_System_Config_Form_Field
+class Zota_BetterContactForm_Block_Adminhtml_Source_System_Config_Createformbutton extends Mage_Adminhtml_Block_System_Config_Form_Field
 {
 
     protected function _getElementHtml(Varien_Data_Form_Element_Abstract $element)

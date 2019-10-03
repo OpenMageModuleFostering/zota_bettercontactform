@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Zota_BetterContactForm",
+    "name": "OpenMageModuleFostering\/Zota_BetterContactForm",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "The professional contact form help your customers comfortable to send message quickly whenever they want.",
     "authors": [
-    {
-        "name": "bettercontactform",
-        "email": "support@smartpopupbox.com"
-    }
-],
+        {
+            "name": "bettercontactform",
+            "email": "support@smartpopupbox.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
